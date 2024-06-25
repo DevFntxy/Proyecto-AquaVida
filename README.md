@@ -64,4 +64,25 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
   
 **Nota Importante ** **Aunque es la paleta de colores oficial ,aun pueden agregarse o eliminar algunos**
 
+## Lista de Tecnologías
+
+<p align = "justify">
+
+*Cliente:*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Servidor:*
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+*Pruebas:*
+![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+*Documentación:*
+![Narkdown](https://img.shields.io/badge/Made%20with-Narkdown-1f425f.svg)
+
+</p>
+
   

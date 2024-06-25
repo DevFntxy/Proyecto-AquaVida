@@ -1,15 +1,15 @@
 # Proyecto-AquaVida
 
 
-# DESCRIPCION
+### DESCRIPCION
 
 Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.
 
 
 
-# PLANTEAMIENTO DEL PROBLEMA
+### PLANTEAMIENTO DEL PROBLEMA
 
-La falta de acceso al agua potable y saneamiento en Xicotepec de Juárez, Puebla, y sus alrededores es un problema serio y muy importante por la mala calidad del agua, la sobreexplotación de los recursos hídricos y la falta de conciencia sobre su conservación. Esto tiene un impacto negativo en la salud pública y el desarrollo económico, agravado por la ausencia de sistemas de monitoreo efectivos. Además, la región enfrenta amenazas de escasez de agua y futuras sequías. Una aplicacion web sería de gran ayuda porque facilitaría el acceso a información crucial sobre la gestión del agua y el saneamiento, proporcionando herramientas para concienciar, capacitar y monitorear en tiempo real. Esto permitiría una acción más rápida y eficiente para mejorar la calidad de vida y proteger el medio ambiente en la región.
+<p align="justify">La falta de acceso al agua potable y saneamiento en Xicotepec de Juárez, Puebla, y sus alrededores es un problema serio y muy importante por la mala calidad del agua, la sobreexplotación de los recursos hídricos y la falta de conciencia sobre su conservación. Esto tiene un impacto negativo en la salud pública y el desarrollo económico, agravado por la ausencia de sistemas de monitoreo efectivos. Además, la región enfrenta amenazas de escasez de agua y futuras sequías. Una aplicacion web sería de gran ayuda porque facilitaría el acceso a información crucial sobre la gestión del agua y el saneamiento, proporcionando herramientas para concienciar, capacitar y monitorear en tiempo real. Esto permitiría una acción más rápida y eficiente para mejorar la calidad de vida y proteger el medio ambiente en la región.</p>
 
 ### Objetivo General
 
@@ -24,7 +24,7 @@ La falta de acceso al agua potable y saneamiento en Xicotepec de Juárez, Puebla
 - Implementacion de Reportes eficiente:  Desarrollar y desplegar un sistema de reporte integrado en la aplicación web que permita a los usuarios notificar de manera rápida y precisa cualquier incidencia relacionada con el suministro de agua, incluyendo fugas, contaminación o problemas de acceso, facilitando así una respuesta rápida y efectiva por parte de las autoridades correspondientes.
 - Facilitar la participación comunitaria: Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.
 
-# AQUA VIDA - Identidad Gráfica
+### AQUA VIDA - Identidad Gráfica
 Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logotipo de la empresa, el logotipo del producto y la paleta de colores utilizada en el diseño.
 ## Logotipos
 
@@ -41,35 +41,35 @@ Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logo
 
 Este es el logo que nos define como equipo de trabajo y empresa ,se llama "ATL SOFTWARE"
 
-## Paleta de Colores
+### Paleta de Colores
 
 Los colores utilizados en la identidad gráfica de AQUA VIDA son:
 
-# Aqua Vida - Paleta de Colores
+#### Aqua Vida - Paleta de Colores
 
 Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
 
-### Azul Agua
+#### Azul Agua
 - **Hex**: #0074D9
 - **RGB**: (0, 116, 217)
 - **Uso**: Encabezados, enlaces y elementos destacados.
 
-### Verde Esmeralda
+#### Verde Esmeralda
 - **Hex**: #2ECC40
 - **RGB**: (46, 204, 64)
 - **Uso**: Botones, iconos de acciones positivas y elementos de realce.
 
-### Gris Claro
+#### Gris Claro
 - **Hex**: #DDDDDD
 - **RGB**: (221, 221, 221)
 - **Uso**: Fondos, bordes y secciones secundarias.
 
-### Gris Oscuro
+#### Gris Oscuro
 - **Hex**: #333333
 - **RGB**: (51, 51, 51)
 - **Uso**: Texto principal, títulos y subtítulos.
 
-### Blanco
+#### Blanco
 - **Hex**: #FFFFFF
 - **RGB**: (255, 255, 255)
 - **Uso**: Fondos, áreas de contenido principal y secciones claras.
@@ -77,7 +77,7 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
   
 **Nota Importante ** **Aunque es la paleta de colores oficial ,aun pueden agregarse o eliminar algunos**
 
-## Lista de Tecnologías
+### Lista de Tecnologías
 
 <p align = "justify">
 
@@ -98,5 +98,5 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 </p>
 
-## Autores
+### Autores
   

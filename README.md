@@ -12,11 +12,52 @@ Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logo
 ## Logotipos
 
 - **LOGO DE NUESTRO SERVICIO**:
--  ![Logotipo de AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg)
+  
+ ![Logotipo de AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg)
 
   
   Este es el logo de nuestro sistema de gestor de reportes sobre fugas y problemas relacionados con el agua "AQUA VIDA"
   
 - **LOGO DE NUESTRA EMPRESA ATL**:
-- ![Logotipo del producto AQUA VIDA](logos/producto.png)
+  
+ ![Logotipo del producto AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg)
 
+Este es el logo que nos define como equipo de trabajo y empresa ,se llama "ATL SOFTWARE"
+
+## Paleta de Colores
+
+Los colores utilizados en la identidad gráfica de AQUA VIDA son:
+
+# Aqua Vida - Paleta de Colores
+
+Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
+
+### Azul Agua
+- **Hex**: #0074D9
+- **RGB**: (0, 116, 217)
+- **Uso**: Encabezados, enlaces y elementos destacados.
+
+### Verde Esmeralda
+- **Hex**: #2ECC40
+- **RGB**: (46, 204, 64)
+- **Uso**: Botones, iconos de acciones positivas y elementos de realce.
+
+### Gris Claro
+- **Hex**: #DDDDDD
+- **RGB**: (221, 221, 221)
+- **Uso**: Fondos, bordes y secciones secundarias.
+
+### Gris Oscuro
+- **Hex**: #333333
+- **RGB**: (51, 51, 51)
+- **Uso**: Texto principal, títulos y subtítulos.
+
+### Blanco
+- **Hex**: #FFFFFF
+- **RGB**: (255, 255, 255)
+- **Uso**: Fondos, áreas de contenido principal y secciones claras.
+
+  
+**Nota Importante ** **Aunque es la paleta de colores oficial ,aun pueden agregarse o eliminar algunos**
+
+  

@@ -11,6 +11,19 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 La falta de acceso al agua potable y saneamiento en Xicotepec de Juárez, Puebla, y sus alrededores es un problema serio y muy importante por la mala calidad del agua, la sobreexplotación de los recursos hídricos y la falta de conciencia sobre su conservación. Esto tiene un impacto negativo en la salud pública y el desarrollo económico, agravado por la ausencia de sistemas de monitoreo efectivos. Además, la región enfrenta amenazas de escasez de agua y futuras sequías. Una aplicacion web sería de gran ayuda porque facilitaría el acceso a información crucial sobre la gestión del agua y el saneamiento, proporcionando herramientas para concienciar, capacitar y monitorear en tiempo real. Esto permitiría una acción más rápida y eficiente para mejorar la calidad de vida y proteger el medio ambiente en la región.
 
+### Objetivo General
+
+<p align="justify">Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.</p>
+
+
+### Objetivos especificos
+
+- Crear concienca sobre el consumo de agua: desarrollar recursos educativos e interactivos en la aplicacion web para informar sobre la importancia de conservar y utilizar el agua de manera responsable.
+- Mapa interactivo: la aplicacion contara con un mapa interactivo, mostrando las zonas con mayor vulnerabilidad de agua en el municipio o escasez.
+- Implementacion de alertas:  se desarrollara un sistema de notificacion de fugas de agua para alertar a las autoridades locales sobre el problema, facilitando la reparacion.
+- Implementacion de Reportes eficiente:  Desarrollar y desplegar un sistema de reporte integrado en la aplicación web que permita a los usuarios notificar de manera rápida y precisa cualquier incidencia relacionada con el suministro de agua, incluyendo fugas, contaminación o problemas de acceso, facilitando así una respuesta rápida y efectiva por parte de las autoridades correspondientes.
+- Facilitar la participación comunitaria: Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.
+
 # AQUA VIDA - Identidad Gráfica
 Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logotipo de la empresa, el logotipo del producto y la paleta de colores utilizada en el diseño.
 ## Logotipos

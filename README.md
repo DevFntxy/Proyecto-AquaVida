@@ -11,6 +11,25 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 <p align="justify">La falta de acceso al agua potable y saneamiento en Xicotepec de Juárez, Puebla, y sus alrededores es un problema serio y muy importante por la mala calidad del agua, la sobreexplotación de los recursos hídricos y la falta de conciencia sobre su conservación. Esto tiene un impacto negativo en la salud pública y el desarrollo económico, agravado por la ausencia de sistemas de monitoreo efectivos. Además, la región enfrenta amenazas de escasez de agua y futuras sequías. Una aplicacion web sería de gran ayuda porque facilitaría el acceso a información crucial sobre la gestión del agua y el saneamiento, proporcionando herramientas para concienciar, capacitar y monitorear en tiempo real. Esto permitiría una acción más rápida y eficiente para mejorar la calidad de vida y proteger el medio ambiente en la región.</p>
 
+---
+
+### PROPUESTA DE SOLUCION
+<p align="justify">En respuesta a los desafios que endrenta Xicotepec en la gestion y conservacion de los recursos hidricos, ponemos una plataforma integral que aborde estos problemas de manera efectiva. Principalmente se fomentara el consumo responsable y reduciendo el desperdicio de este recurso. </p>
+
+
+#### Pasos para llegar y/o concluir la solucion
+
+##### Sistema de reportes y incidentes: 
+<p align="justify">Desarrollaremos una plataforma web que permita a los ususarios reportar incidentes tales como, fugas, contaminacion del recurso hidrico. Estos reportes seran dirigidos a las autoridades y administradores para su pronta resoulucion. </p>
+
+##### Alertas tempranas o Prediccion de sequias:
+<p align="justify">Se realizara un analisis de consumo y con base a todos los datos recopilados en el sistema, se crearan predicciones en el caso de que en una zona en especifico sea vulnerable a sequias, esto ayudara a que las autoridades puedan tomar medidas preventivas reduciendo asi la escasez de agua. </p>
+
+
+
+
+---
+
 ### Objetivo General
 
 <p align="justify">Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.</p>

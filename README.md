@@ -1,5 +1,5 @@
 # Proyecto-AquaVida
-![Logo empresa](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg)
+
 
 # DESCRIPCION
 

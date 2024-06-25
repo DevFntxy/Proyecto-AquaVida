@@ -128,5 +128,10 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 ### AUTORES
 
+ - Obed Guzman Flores: [ObedGuzmanGuz ](https://github.com/ObedGuzmanGuz)]
+ - Yazmin Gutierrez Hernandez:  [YazUtxj ](https://github.com/YazUtxj)]
+ - Derek Sesni Carreño:  [DevFntxy ](https://github.com/DevFntxy)]
+ - Angel de Jesus Baños Tellez:  [AngelJesus13 ](https://github.com/ObedGuzmanGuz)]
+
 ---
   

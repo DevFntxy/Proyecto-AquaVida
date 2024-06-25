@@ -1,6 +1,10 @@
 # Proyecto-AquaVida
 ![Logo empresa](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg)
 
+**Descripcion**
+
+Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.
+
 
 
 **PLANTEAMIENTO DEL PROBLEMA**

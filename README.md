@@ -11,7 +11,12 @@ La falta de acceso al agua potable y saneamiento en Xicotepec de Juárez, Puebla
 Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logotipo de la empresa, el logotipo del producto y la paleta de colores utilizada en el diseño.
 ## Logotipos
 
-- **Empresa**: ![Logotipo de AQUA VIDA](logos/empresa.png)
-- 
-- **Producto**: ![Logotipo del producto AQUA VIDA](logos/producto.png)
+- **LOGO DE NUESTRO SERVICIO**:
+-  ![Logotipo de AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg)
+
+  
+  Este es el logo de nuestro sistema de gestor de reportes sobre fugas y problemas relacionados con el agua "AQUA VIDA"
+  
+- **LOGO DE NUESTRA EMPRESA ATL**:
+- ![Logotipo del producto AQUA VIDA](logos/producto.png)
 

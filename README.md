@@ -29,14 +29,14 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ---
 
-### Objetivo General
+### OBJETIVO GENERAL
 
 <p align="justify">Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.</p>
 
 
 ---
 
-### Objetivos especificos
+### OBJETIVOS ESPECIFICOS
 
 - Crear concienca sobre el consumo de agua: desarrollar recursos educativos e interactivos en la aplicacion web para informar sobre la importancia de conservar y utilizar el agua de manera responsable.
 - Mapa interactivo: la aplicacion contara con un mapa interactivo, mostrando las zonas con mayor vulnerabilidad de agua en el municipio o escasez.
@@ -46,10 +46,10 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ---
 
-### AQUA VIDA - Identidad Gráfica
+### AQUA VIDA - IDENTIDAD GRAFICA
 Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logotipo de la empresa, el logotipo del producto y la paleta de colores utilizada en el diseño.
 
-## Logotipos
+## LOGOTIPOS
 
 - **LOGO DE NUESTRO SERVICIO**:
   
@@ -66,11 +66,10 @@ Este es el logo que nos define como equipo de trabajo y empresa ,se llama "ATL S
 
 ---
 
-### Paleta de Colores
+### PALETA DE COLORES
 
 Los colores utilizados en la identidad gráfica de AQUA VIDA son:
 
-#### Aqua Vida - Paleta de Colores
 
 Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
 
@@ -104,7 +103,7 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 ---
 
-### Lista de Tecnologías
+### LISTA DE TECNOLOGIAS
 
 <p align = "justify">
 
@@ -127,7 +126,7 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 ---
 
-### Autores
+### AUTORES
 
 ---
   

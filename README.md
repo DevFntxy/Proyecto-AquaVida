@@ -85,4 +85,5 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 </p>
 
+## Autores
   

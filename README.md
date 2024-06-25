@@ -1,3 +1,5 @@
+---
+
 # Proyecto-AquaVida
 
 
@@ -5,7 +7,7 @@
 
 Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.
 
-
+---
 
 ### PLANTEAMIENTO DEL PROBLEMA
 
@@ -25,15 +27,14 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 ##### Alertas tempranas o Prediccion de sequias:
 <p align="justify">Se realizara un analisis de consumo y con base a todos los datos recopilados en el sistema, se crearan predicciones en el caso de que en una zona en especifico sea vulnerable a sequias, esto ayudara a que las autoridades puedan tomar medidas preventivas reduciendo asi la escasez de agua. </p>
 
-
-
-
 ---
 
 ### Objetivo General
 
 <p align="justify">Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.</p>
 
+
+---
 
 ### Objetivos especificos
 
@@ -43,8 +44,11 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 - Implementacion de Reportes eficiente:  Desarrollar y desplegar un sistema de reporte integrado en la aplicación web que permita a los usuarios notificar de manera rápida y precisa cualquier incidencia relacionada con el suministro de agua, incluyendo fugas, contaminación o problemas de acceso, facilitando así una respuesta rápida y efectiva por parte de las autoridades correspondientes.
 - Facilitar la participación comunitaria: Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.
 
+---
+
 ### AQUA VIDA - Identidad Gráfica
 Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logotipo de la empresa, el logotipo del producto y la paleta de colores utilizada en el diseño.
+
 ## Logotipos
 
 - **LOGO DE NUESTRO SERVICIO**:
@@ -59,6 +63,8 @@ Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logo
  ![Logotipo del producto AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg)
 
 Este es el logo que nos define como equipo de trabajo y empresa ,se llama "ATL SOFTWARE"
+
+---
 
 ### Paleta de Colores
 
@@ -96,6 +102,8 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
   
 **Nota Importante ** **Aunque es la paleta de colores oficial ,aun pueden agregarse o eliminar algunos**
 
+---
+
 ### Lista de Tecnologías
 
 <p align = "justify">
@@ -117,5 +125,9 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 </p>
 
+---
+
 ### Autores
+
+---
   

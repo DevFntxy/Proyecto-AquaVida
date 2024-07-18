@@ -26,7 +26,7 @@ La instalación se refiere al proceso de configurar y preparar un software o apl
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

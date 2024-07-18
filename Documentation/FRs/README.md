@@ -26,7 +26,7 @@ Esta sección contiene las solicitudes de nuevas funcionalidades, mejoras o camb
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

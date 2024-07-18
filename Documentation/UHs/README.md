@@ -26,7 +26,7 @@ Las historias de usuario son breves descripciones de funcionalidades o requerimi
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

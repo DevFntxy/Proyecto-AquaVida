@@ -25,7 +25,7 @@ Un manual es un documento que proporciona instrucciones detalladas y orientació
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

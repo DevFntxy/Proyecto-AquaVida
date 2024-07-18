@@ -26,7 +26,7 @@ Los sketches son dibujos o bocetos rápidos que representan ideas de diseño de 
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

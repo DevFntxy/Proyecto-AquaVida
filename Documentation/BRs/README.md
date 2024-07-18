@@ -26,7 +26,7 @@ En esta sección se encuentran los informes de errores identificados durante el 
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

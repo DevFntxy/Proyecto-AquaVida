@@ -26,7 +26,7 @@ Un mockup es una representación visual estática o interactiva que muestra el d
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

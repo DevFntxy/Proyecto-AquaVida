@@ -26,7 +26,7 @@ Un prototipo es una versión preliminar o inicial de un producto o sistema que s
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollos
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

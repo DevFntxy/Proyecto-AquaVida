@@ -26,7 +26,7 @@ Un Sistema de Mapas es una plataforma o aplicación que permite la visualizació
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

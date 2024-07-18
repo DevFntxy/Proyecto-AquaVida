@@ -25,7 +25,7 @@ Los NFRs son criterios que especifican atributos del sistema que no están direc
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

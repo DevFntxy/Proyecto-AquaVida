@@ -26,7 +26,7 @@ La GUI es la interfaz visual que permite a los usuarios interactuar con el softw
 >| - FrontEnd <br>
 
 
-## Equipo de DesarrolloV
+## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|

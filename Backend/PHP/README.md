@@ -21,3 +21,9 @@ En esta carpeta se organizan archivos de lógica de negocio, controladores y se 
 |Derek Sesni Carreño|[@DevDerekSesniCarreño](https://github.com/DevFntxy)|Desarrollador de Backend|❌No revisado|
 |Yazmin Hernandez Gutierrez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador FronEnd|❌No revisado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|
+
+
+
+
+
+

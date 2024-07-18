@@ -6,14 +6,17 @@ Este repositorio contiene una colección de assets creativos y experimentales.
 
 En este repositorio encontrarás una variedad de assets creados con diferentes técnicas y herramientas, diseñados para ser utilizados en diversos proyectos creativos. Cada asset está diseñado para facilitar la expresión visual y mejorar la experiencia de usuario en aplicaciones, sitios web u otros medios interactivos.
 Cada carpeta de asset contiene los archivos necesarios para utilizar y comprender el asset correspondiente, como imágenes, iconos, sonidos, videos, entre otros recursos.
->IntegradoraI-NombreProyecto<br>
->| - Backend <br>
->| - Database<br>
->| - Documentation<br>
->  **- FrontEnd**
->&nbsp;&nbsp;| -Assets
->
->
+
+## Estructura de Archivos
+
+> IntegradoraI-AquaVida<br>
+> | - Backend <br> 
+> | - Databases<br>
+> | - **FrontEnd** <br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- **Assets**<br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
+> | - Documentation<br>
 
 ## Tipos de Assets
 |Paleta de Colores|
@@ -28,9 +31,10 @@ Los assets en este repositorio pueden incluir:
 - **Otros**: Cualquier otro tipo de recurso creativo útil para proyectos diversos.
 
 ## Equipo de Desarrollo
+
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder Documentador |❌ No revisado|
-|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✅|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

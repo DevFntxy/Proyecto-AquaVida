@@ -7,17 +7,17 @@ Este repositorio contiene una colección de proyectos creativos realizados con H
 
 En este repositorio encontrarás una variedad de proyectos creados con HTML y herramientas web, diseñados para explorar conceptos únicos y expresar ideas creativas de manera visual.
 
-## Estructura del Repositorio
+## Estructura de Archivos
 
-El repositorio está organizado de la siguiente manera:
-IntegradoraI-NombreProyecto<br>
->| - Backend <br>
->| - Database<br>
->| - Documentation<br>
->  **- FrontEnd**
->&nbsp;&nbsp;| - Assets
->&nbsp;&nbsp;| - CSS
->&nbsp;&nbsp;| - HTML
+> IntegradoraI-AquaVida<br>
+> | - Backend <br> 
+> | - Databases<br>
+> | - **FrontEnd** <br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- **HTML**<br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- JavaScript<br>
+> | - Documentation<br>
 
 Cada carpeta de proyecto contiene los archivos necesarios para ejecutar y comprender el proyecto correspondiente, incluyendo archivos HTML, CSS y posiblemente JavaScript.
 
@@ -35,11 +35,11 @@ Los proyectos en este repositorio utilizan principalmente:
 ¡Las contribuciones son bienvenidas! Si tienes algún proyecto creativo que te gustaría compartir o mejorar, siéntete libre de hacer un pull request. Asegúrate de seguir las pautas de contribución y proporcionar una breve descripción del proyecto añadido.
 
 
-
 ## Equipo de Desarrollo
+
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder Documentador |❌ No revisado|
-|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✅|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

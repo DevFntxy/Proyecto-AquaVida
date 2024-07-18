@@ -2,19 +2,18 @@
 
 Este repositorio contiene una colección de assets creativos y experimentales.
 
-## Descri
-
-pción
+## Descripción
 
 En este repositorio encontrarás una variedad de assets creados con diferentes técnicas y herramientas, diseñados para ser utilizados en diversos proyectos creativos. Cada asset está diseñado para facilitar la expresión visual y mejorar la experiencia de usuario en aplicaciones, sitios web u otros medios interactivos.
 Cada carpeta de asset contiene los archivos necesarios para utilizar y comprender el asset correspondiente, como imágenes, iconos, sonidos, videos, entre otros recursos.
 >IntegradoraI-NombreProyecto<br>
 >| - Backend <br>
 >| - Database<br>
->  **- FrontEnd**
->&nbsp;&nbsp;|- CSS<br>
->&nbsp;&nbsp;|- Assets<br>
 >| - Documentation<br>
+>  **- FrontEnd**
+>&nbsp;&nbsp;| -Assets
+>
+>
 
 ## Tipos de Assets
 |Paleta de Colores|
@@ -28,14 +27,11 @@ Los assets en este repositorio pueden incluir:
 - **Videos**: Clips de video utilizados para contenido multimedia interactivo.
 - **Otros**: Cualquier otro tipo de recurso creativo útil para proyectos diversos.
 
-## EQUIPO
-
 ## Equipo de Desarrollo
-
-
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Tellez Antonio|[@ángelJesús13](https://github.com/angelJesus13)|Líder de Desarrollo Fronted|✅ Revisado y aprobado.|
-|Yazmin Gutierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador Fronted|✅ Revisado y aprobado.|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✅ Revisado y aprobado.|
-|Dereck Sesni Carrello|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador Backend|✅ Revisado y aprobado.|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder Documentador |❌ No revisado|
+|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✅|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ No revisado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

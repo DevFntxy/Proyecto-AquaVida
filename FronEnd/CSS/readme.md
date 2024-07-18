@@ -11,11 +11,10 @@ Cada carpeta de proyecto contiene los archivos necesarios para entender y aplica
 >IntegradoraI-NombreProyecto<br>
 >| - Backend <br>
 >| - Database<br>
->  **- FrontEnd**
->&nbsp;&nbsp;|- CSS<br>
->&nbsp;&nbsp;|- Assets<br>
 >| - Documentation<br>
-
+>  **- FrontEnd**
+>&nbsp;&nbsp;| - Assets
+>&nbsp;&nbsp;| - CSS
 
 Los proyectos en este repositorio utilizan principalmente:
 
@@ -26,11 +25,11 @@ Los proyectos en este repositorio utilizan principalmente:
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes algún proyecto CSS creativo que te gustaría compartir o mejorar, siéntete libre de hacer un pull request. Asegúrate de seguir las pautas de contribución y proporcionar una breve descripción del proyecto añadido.
-## Equipo de Trabajo
-
+## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Tellez Antonio|[@ángelJesús13](https://github.com/angelJesus13)|Líder de Desarrollo Fronted|✅ Revisado y aprobado.|
-|Yazmin Gutierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador Fronted|✅ Revisado y aprobado.|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✅ Revisado y aprobado.|
-|Dereck Sesni Carrello|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador Backend|✅ Revisado y aprobado.|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder Documentador |❌ No revisado|
+|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✅|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ No revisado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

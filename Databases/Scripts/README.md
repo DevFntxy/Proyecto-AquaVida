@@ -18,11 +18,12 @@ El proceso de creación y gestión implica escribir y mantener scripts SQL y/o P
 &nbsp;&nbsp;&nbsp;&nbsp;|- USPs<br>
 > | - FrontEnd <br>
 > | - Documentation<br>
+
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ Revisado y aprobado.|
-|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ No revisado|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ Revisado y Aprobado|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

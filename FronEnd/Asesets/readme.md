@@ -2,7 +2,9 @@
 
 Este repositorio contiene una colección de assets creativos y experimentales.
 
-## Descripción
+## Descri
+
+pción
 
 En este repositorio encontrarás una variedad de assets creados con diferentes técnicas y herramientas, diseñados para ser utilizados en diversos proyectos creativos. Cada asset está diseñado para facilitar la expresión visual y mejorar la experiencia de usuario en aplicaciones, sitios web u otros medios interactivos.
 Cada carpeta de asset contiene los archivos necesarios para utilizar y comprender el asset correspondiente, como imágenes, iconos, sonidos, videos, entre otros recursos.

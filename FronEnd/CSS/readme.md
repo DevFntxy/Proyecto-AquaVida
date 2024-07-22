@@ -1,7 +1,7 @@
-# Proyecto de Estilos CSS Creativos  ![CSS](    https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+# Proyecto de Estilos CSS   ![CSS](    https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 
-Este repositorio contiene una colección de proyectos creativos y experimentales utilizando CSS.
+Este repositorio contiene los archivos css para el proyecto AQUA VIDA 
 
 ## Descripción
 

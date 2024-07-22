@@ -1,7 +1,7 @@
-# FRs (Feature Request) ![FRs](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+# FRs (Functional requirements) ![FRs](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-Esta sección contiene las solicitudes de nuevas funcionalidades, mejoras o cambios propuestos para el software en desarrollo.
+En esta seccion encontraremos el apartado de los requisitos funcionales de la aplicacion web ,detallando de lo que el sistema debe hacer desde una perspectiva funcional.
 ## Estructura de Archivos
 
 >IntegradoraI-AQUA-VIDA<br>

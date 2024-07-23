@@ -15,7 +15,7 @@ En este repositorio encontrarás una variedad de proyectos creados con HTML y he
 > | - **FrontEnd** <br>
 > | -&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
 > | -&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- **HTML**<br>
+ > |   &nbsp;&nbsp;&nbsp;&nbsp; - **HTML**<br>
 > | -&nbsp;&nbsp;&nbsp;&nbsp;|- JavaScript<br>
 > | - Documentation<br>
 

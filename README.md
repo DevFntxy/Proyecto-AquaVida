@@ -70,6 +70,13 @@ Los colores utilizados en la identidad gráfica de AQUA VIDA son:
 
 Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
 
+<table>
+   <td>Paleta de colores que se usara</td>
+  <tr>
+    <td><img src="Captura de pantalla 2024-07-24 142711.png" width="100%" style="padding: 10px;" /></td>
+  </tr>
+ 
+</table>
 #### Azul Agua
 - **Hex**: #0074D9
 - **RGB**: (0, 116, 217)

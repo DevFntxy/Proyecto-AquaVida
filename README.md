@@ -51,18 +51,15 @@ Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logo
 
 ## LOGOTIPOS
 
-- **LOGO DE NUESTRO SERVICIO**:
-  
- ![Logotipo de AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg)
-
-  
-  Este es el logo de nuestro sistema de gestor de reportes sobre fugas y problemas relacionados con el agua "AQUA VIDA"
-  
-- **LOGO DE NUESTRA EMPRESA ATL**:
-  
- ![Logotipo del producto AQUA VIDA](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg)
-
-Este es el logo que nos define como equipo de trabajo y empresa ,se llama "ATL SOFTWARE"
+<table>
+  <tr>
+    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg" width="100%" style="padding: 10px;" /></td>
+    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg" width="100%" style="padding: 10px;" /></td>
+   
+  </tr>
+  <td>Logo de la Aplicacion</td>
+   <td>Logo de empresa</td>
+</table>
 
 ---
 

@@ -61,6 +61,34 @@ Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logo
    <td>Logo de empresa</td>
 </table>
 
+### ORGANIGRAMA DEL EQUIPO
+  
+![](https://raw.githubusercontent.com/DevFntxy/Proyecto-AquaVida/dfc8b0bd908ad2744f2983809c40b00a77d3edc4/Organigrama%20Roles.png)
+
+<table>
+        <tr>
+            <th>Integrantes</th>
+            <th>Rol</th>
+        </tr>
+        <tr>
+            <td>Angel de Jesus Baños Tellez</td>
+            <td>Documentador/Lider del proyecto</td>
+        </tr>
+        <tr>
+            <td>Derek Sesni Carreño</td>
+            <td>DataBase</td>
+        </tr>
+        <tr>
+            <td>Yazmin Hernandez Gutierrez</td>
+            <td>Desarrollador Frontend</td>
+        </tr>
+        <tr>
+            <td>Obed Guzmán Flores</td>
+            <td>Desarrollador Backend</td>
+        </tr>
+    </table>
+
+
 ---
 
 ### PALETA DE COLORES
@@ -75,6 +103,9 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
   <tr>
     <td><img src="Captura de pantalla 2024-07-24 142711.png" width="100%" style="padding: 10px;" /></td>
   </tr>
+  
+
+
  
 </table>
 #### Azul Agua

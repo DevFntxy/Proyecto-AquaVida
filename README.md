@@ -163,10 +163,11 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 ### AUTORES
 
- - Obed Guzman Flores: [ObedGuzmanGuz ](https://github.com/ObedGuzmanGuz)]
- - Yazmin Gutierrez Hernandez:  [YazUtxj ](https://github.com/YazUtxj)]
- - Derek Sesni Carreño:  [DevFntxy ](https://github.com/DevFntxy)]
- - Angel de Jesus Baños Tellez:  [AngelJesus13 ](https://github.com/ObedGuzmanGuz)]
+| Nombre                        | Usuario             | Puesto |
+|-------------------------------|---------------------|--------|
+| Angel de Jesus Baños Tellez   | [AngelJesus13](https://github.com/ObedGuzmanGuz)        | Ceo y Documentador       |
+| Obed Guzman Flores            | [ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)       |   Desarrollador Backend     |
+| Yazmin Gutierrez Hernandez    | [YazUtxj](https://github.com/YazUtxj)             |  Desarrollador Frontend      |
+| Derek Sesni Carreño           | [DevFntxy](https://github.com/DevFntxy)            | Desarrollador Database       |
 
----
   

@@ -1,7 +1,33 @@
 ---
 
 # Proyecto-AquaVida
+### AQUA VIDA - IDENTIDAD GRAFICA
+La identidad gráfica de AQUA-VIDA busca transmitir valores de sostenibilidad, comunidad, transparencia, e innovación. Cada elemento visual está diseñado para resonar con la audiencia, destacando la importancia de la conservación del agua y la participación activa de la comunidad en la gestión de este recurso vital.
 
+
+## LOGOTIPOS
+
+<table>
+  <tr>
+    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg" width="100%" style="padding: 10px;" /></td>
+    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg" width="100%" style="padding: 10px;" /></td>
+   
+  </tr>
+  <td>Logo de la Aplicacion</td>
+   <td>Logo de empresa</td>
+</table>
+
+
+---
+
+### ORGANIGRAMA DEL EQUIPO
+  
+![](https://raw.githubusercontent.com/DevFntxy/Proyecto-AquaVida/dfc8b0bd908ad2744f2983809c40b00a77d3edc4/Organigrama%20Roles.png)
+
+
+
+
+---
 
 ### DESCRIPCION
 
@@ -46,50 +72,6 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ---
 
-### AQUA VIDA - IDENTIDAD GRAFICA
-Este repositorio contiene la identidad gráfica de AQUA VIDA, incluyendo el logotipo de la empresa, el logotipo del producto y la paleta de colores utilizada en el diseño.
-
-## LOGOTIPOS
-
-<table>
-  <tr>
-    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg" width="100%" style="padding: 10px;" /></td>
-    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg" width="100%" style="padding: 10px;" /></td>
-   
-  </tr>
-  <td>Logo de la Aplicacion</td>
-   <td>Logo de empresa</td>
-</table>
-
-### ORGANIGRAMA DEL EQUIPO
-  
-![](https://raw.githubusercontent.com/DevFntxy/Proyecto-AquaVida/dfc8b0bd908ad2744f2983809c40b00a77d3edc4/Organigrama%20Roles.png)
-
-<table>
-        <tr>
-            <th>Integrantes</th>
-            <th>Rol</th>
-        </tr>
-        <tr>
-            <td>Angel de Jesus Baños Tellez</td>
-            <td>Documentador/Lider del proyecto</td>
-        </tr>
-        <tr>
-            <td>Derek Sesni Carreño</td>
-            <td>DataBase</td>
-        </tr>
-        <tr>
-            <td>Yazmin Hernandez Gutierrez</td>
-            <td>Desarrollador Frontend</td>
-        </tr>
-        <tr>
-            <td>Obed Guzmán Flores</td>
-            <td>Desarrollador Backend</td>
-        </tr>
-    </table>
-
-
----
 
 ### PALETA DE COLORES
 

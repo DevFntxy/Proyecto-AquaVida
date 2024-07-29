@@ -1,7 +1,7 @@
-# BRs (Bug Reports) ![BRs](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+# BRs (Business Rules) ![BRs](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-En esta sección se encuentran los informes de errores identificados durante el desarrollo del proyecto.
+En esta sección se encuentran las reglas de negocio, en donde se encontraran reglas de acceso, politicas de seguridad, validadcion de datos, son fundamentales para asegurar la coherencia y cumplimiento del negocio en la aplicacion web.
 ## Estructura de Archivos
 
 >IntegradoraI-AQUA-VIDA<br>

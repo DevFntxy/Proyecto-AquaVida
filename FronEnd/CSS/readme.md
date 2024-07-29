@@ -14,12 +14,13 @@ Cada carpeta de proyecto contiene los archivos necesarios para entender y aplica
 > | - Backend <br> 
 > | - Databases<br>
 > | - Documentation<br>
-> | - **FrontEnd** <br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- **CSS**<br>
-> | - &nbsp;&nbsp;&nbsp;&nbsp;|- Readme_de_Css
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- JS<br>
+>| **FrontEnd** <br>
+>&nbsp;&nbsp;| - Assets <br>
+>&nbsp;&nbsp;| - Css <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Readme.Css<br>
+>&nbsp;&nbsp;| - Html <br>
+>&nbsp;&nbsp;| - Js
+
 
 Los proyectos en este repositorio utilizan principalmente:
 

@@ -13,11 +13,13 @@ Cada carpeta de proyecto contiene los archivos necesarios para entender y aplica
 > IntegradoraI-AquaVida<br>
 > | - Backend <br> 
 > | - Databases<br>
+> | - Documentation<br>
 > | - **FrontEnd** <br>
 > | -&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
 > | -&nbsp;&nbsp;&nbsp;&nbsp;|- **CSS**<br>
+> | - &nbsp;&nbsp;&nbsp;&nbsp;|- Readme_de_Css
 > | -&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
-> | - Documentation<br>
+> | -&nbsp;&nbsp;&nbsp;&nbsp;|- JS<br>
 
 Los proyectos en este repositorio utilizan principalmente:
 
@@ -25,7 +27,7 @@ Los proyectos en este repositorio utilizan principalmente:
 - **HTML**: Para la estructura básica de las páginas web.
 - **JavaScript**: Para interacciones dinámicas y comportamientos especiales si es necesario.
 
-## Contribuciones> | -&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
+## Contribuciones> 
 
 ¡Las contribuciones son bienvenidas! Si tienes algún proyecto CSS creativo que te gustaría compartir o mejorar, siéntete libre de hacer un pull request. Asegúrate de seguir las pautas de contribución y proporcionar una breve descripción del proyecto añadido.
 

@@ -4,9 +4,8 @@
 Este repositorio contiene los archivos css para el proyecto AQUA VIDA 
 
 ## Descripción
-
-En este repositorio encontrarás una variedad de proyectos donde se exploran diferentes estilos y técnicas utilizando CSS. Cada proyecto está diseñado para demostrar cómo el CSS puede ser utilizado de manera creativa para estilizar y diseñar elementos en páginas web.
-Cada carpeta de proyecto contiene los archivos necesarios para entender y aplicar los estilos CSS correspondientes.
+<p align="justify">En este repositorio encontrarás  un archivo CSS  que describe y es la parte frontal de nuestro proyecto AquaVida , en este   se exploran diferentes estilos y técnicas utilizando CSS.
+</p>
 
 ## Estructura de Archivos
 
@@ -16,8 +15,8 @@ Cada carpeta de proyecto contiene los archivos necesarios para entender y aplica
 > | - Documentation<br>
 >| **FrontEnd** <br>
 >&nbsp;&nbsp;| - Assets <br>
->&nbsp;&nbsp;| - Css <br>
->&nbsp;&nbsp;&nbsp;&nbsp;| - Readme.Css<br>
+>&nbsp;&nbsp;| - **Css** <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Readme.md<br>
 >&nbsp;&nbsp;| - Html <br>
 >&nbsp;&nbsp;| - Js
 
@@ -28,15 +27,12 @@ Los proyectos en este repositorio utilizan principalmente:
 - **HTML**: Para la estructura básica de las páginas web.
 - **JavaScript**: Para interacciones dinámicas y comportamientos especiales si es necesario.
 
-## Contribuciones> 
-
-¡Las contribuciones son bienvenidas! Si tienes algún proyecto CSS creativo que te gustaría compartir o mejorar, siéntete libre de hacer un pull request. Asegúrate de seguir las pautas de contribución y proporcionar una breve descripción del proyecto añadido.
-
+¡Las contribuciones son bienvenidas! Si tienes algún proyecto CSS creativo que te gustaría compartir o mejorar, siéntete libre de hacer un pull request.
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ No revisado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

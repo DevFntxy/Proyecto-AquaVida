@@ -119,9 +119,8 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
   
 **Nota Importante** **Aunque es la paleta de colores oficial ,aun pueden agregarse o eliminar algunos**
-
----
-
+ 
+</table>
 ### LISTA DE TECNOLOGIAS
 
 <p align = "justify">
@@ -143,7 +142,15 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 </p>
 
----
+
+### SKETCHES
+<table>
+
+  <tr>
+    <img src="SKETCH 1.jpeg"  />
+    <img src="SKETCH 2.jpeg"  />
+    <img src="SKETCH 3.jpeg"  />
+  </tr>
 
 ### AUTORES
 

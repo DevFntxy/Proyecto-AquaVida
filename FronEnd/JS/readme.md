@@ -11,12 +11,13 @@ En este repositorio encontrarás una variedad de proyectos desarrollados con Jav
 > IntegradoraI-AquaVida<br>
 > | - Backend <br> 
 > | - Databases<br>
-> | - **FrontEnd** <br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- HTML<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- **JavaScript**<br>
 > | - Documentation<br>
+>| **FrontEnd** <br>
+>&nbsp;&nbsp;| - Assets <br>
+>&nbsp;&nbsp;| - Css <br>
+>&nbsp;&nbsp;| - Html <br>
+>&nbsp;&nbsp;| - **Js**
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Readme.md<br>
 
 Cada carpeta de proyecto contiene los archivos necesarios para ejecutar y comprender el proyecto correspondiente, incluyendo archivos HTML, CSS y JavaScript si es necesario.
 

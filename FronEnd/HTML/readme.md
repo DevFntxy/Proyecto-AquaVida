@@ -1,23 +1,23 @@
-# Proyecto de HTML Creativo ![CSS]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+# Proyecto de HTML  ![CSS]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-Este repositorio contiene una colección de proyectos creativos realizados con HTML y tecnologías relacionadas.
+Este repositorio contiene los archivos HTML para el proyecto AQUA VIDA ,desde la pagina princiapal ,inicio de sesion , reportes , comunidad y quienes somos etc.
 
 ## Descripción
 
-En este repositorio encontrarás una variedad de proyectos creados con HTML y herramientas web, diseñados para explorar conceptos únicos y expresar ideas creativas de manera visual.
+En este repositorio encontrarás una variedad de proyectos creados con HTML y herramientas web, diseñados para la pagina web Aqua Vida.
 
 ## Estructura de Archivos
-
 > IntegradoraI-AquaVida<br>
 > | - Backend <br> 
 > | - Databases<br>
-> | - **FrontEnd** <br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- Assets<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- CSS<br>
- > |   &nbsp;&nbsp;&nbsp;&nbsp; - **HTML**<br>
-> | -&nbsp;&nbsp;&nbsp;&nbsp;|- JavaScript<br>
 > | - Documentation<br>
+>| **FrontEnd** <br>
+>&nbsp;&nbsp;| - Assets <br>
+>&nbsp;&nbsp;| - Css <br>
+>&nbsp;&nbsp;| - **Html** <br>
+>&nbsp;&nbsp;&nbsp;&nbsp;| - Readme.md<br>
+>&nbsp;&nbsp;| - Js
 
 Cada carpeta de proyecto contiene los archivos necesarios para ejecutar y comprender el proyecto correspondiente, incluyendo archivos HTML, CSS y posiblemente JavaScript.
 
@@ -30,16 +30,11 @@ Los proyectos en este repositorio utilizan principalmente:
 - **JavaScript**: Para interacciones dinámicas y comportamientos especiales.
 - **Otras herramientas web**: Incluye cualquier otra tecnología web utilizada para mejorar la funcionalidad y experiencia del usuario.
 
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes algún proyecto creativo que te gustaría compartir o mejorar, siéntete libre de hacer un pull request. Asegúrate de seguir las pautas de contribución y proporcionar una breve descripción del proyecto añadido.
-
-
 ## Equipo de Desarrollo
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ No revisado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

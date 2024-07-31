@@ -22,7 +22,7 @@
 
 ### ORGANIGRAMA DEL EQUIPO
   
-![](https://raw.githubusercontent.com/DevFntxy/Proyecto-AquaVida/dfc8b0bd908ad2744f2983809c40b00a77d3edc4/Organigrama%20Roles.png)
+![](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Organigrama%20Roles.png)
 
 
 

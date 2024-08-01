@@ -132,9 +132,10 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 - **Uso**: Fondos, áreas de contenido principal y secciones claras.
 
   
-**Nota Importante** **Aunque es la paleta de colores oficial ,aun pueden agregarse o eliminar algunos**
+
  
 </table>
+
 ### LISTA DE TECNOLOGIAS
 
 <p align = "justify">
@@ -160,12 +161,12 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 ### SKETCHES
 <table>
   <tr>
-    <td><img src="SKETCH 1.jpeg" alt="Sketch 1" /></td>
-    <td><img src="SKETCH 2.jpeg" alt="Sketch 2" /></td>
+    <td><img src="Documentation/GUI/Sketches/ImagenesSketches/SKETCH 1.jpeg" alt="Sketch 1" /></td>
+    <td><img src="Documentation/GUI/Sketches/ImagenesSketches/SKETCH 2.jpeg" alt="Sketch 2" /></td>
   </tr>
   <tr>
-    <td><img src="SKETCH 3.jpeg" alt="Sketch 3" /></td>
-    <td><img src="SKETCH 3.jpeg" alt="Sketch 3" /></td>
+    <td><img src="Documentation/GUI/Sketches/ImagenesSketches/SKETCH 3.jpeg" /></td>
+    
   </tr>
 </table>
 

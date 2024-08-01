@@ -63,14 +63,17 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 ---
 
 ### OBJETIVOS ESPECIFICOS
-<p align="justify">
-- **Crear concienca sobre el consumo de agua:** desarrollar recursos educativos e interactivos en la aplicacion web para informar sobre la importancia de conservar y utilizar el agua de manera responsable.</p>
-- **Mapa interactivo:** la aplicacion contara con un mapa interactivo, mostrando las zonas con mayor vulnerabilidad de agua en el municipio o escasez.
-<p align="justify">
-- **Implementacion de alertas:** se desarrollara un sistema de notificacion de fugas de agua para alertar a las autoridades locales sobre el problema, facilitando la reparacion.
-</p>
-<p align="justify">- **Implementacion de Reportes eficiente:**  Desarrollar y desplegar un sistema de reporte integrado en la aplicación web que permita a los usuarios notificar de manera rápida y precisa cualquier incidencia relacionada con el suministro de agua, incluyendo fugas, contaminación o problemas de acceso, facilitando así una respuesta rápida y efectiva por parte de las autoridades correspondientes.</p>
-<p align="justify">- **Facilitar la participación comunitaria:** Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.</p>
+
+<p align="justify"><strong>Crear conciencia sobre el consumo de agua</strong>: Desarrollar recursos educativos e interactivos en la aplicación web para informar sobre la importancia de conservar y utilizar el agua de manera responsable.</p>
+
+<p align="justify"><strong>Mapa interactivo</strong>: La aplicación contará con un mapa interactivo, mostrando las zonas con mayor vulnerabilidad de agua en el municipio o escasez.</p>
+
+<p align="justify"><strong>Implementación de alertas</strong>: Se desarrollará un sistema de notificación de fugas de agua para alertar a las autoridades locales sobre el problema, facilitando la reparación.</p>
+
+<p align="justify"><strong>Implementación de reportes eficiente</strong>: Desarrollar y desplegar un sistema de reporte integrado en la aplicación web que permita a los usuarios notificar de manera rápida y precisa cualquier incidencia relacionada con el suministro de agua, incluyendo fugas, contaminación o problemas de acceso, facilitando así una respuesta rápida y efectiva por parte de las autoridades correspondientes.</p>
+
+<p align="justify"><strong>Facilitar la participación comunitaria</strong>: Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.</p>
+
 
 ---
 

@@ -1,5 +1,25 @@
-# NFRs![Requerimentos no funcionales](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-Los NFRs son criterios que especifican atributos del sistema que no están directamente relacionados con las funcionalidades específicas del software, sino con aspectos como el rendimiento, la seguridad, la usabilidad y otros atributos de calidad.
+# NFRs (NFRs - Not Functional Requeriments)![Requerimentos no funcionales](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+Los requerimentos no funcionales de AQUA-VIDA nos ayudaran a definir los atributos y caracteristicas del sistema que aseguran su rendimineto y calidad. Estos aspectos son realmente cruciales para poder garantizar una experiencia de usuario optima y la eficiencia operativa de nuestra app.
+  1. **RENDIMIENTO:**.
+El sistema debe responder de manera eficiente y oportuna a las solicitudes de los usuarios, con tiempos de respuesta minimos y capacidad para manejar un gran volumen de datos sin que se drgade su rendimiento.
+  2. **ESCALABILIDAD:**
+Esta debe de ser capaz de adaptarse a un aumento en la cantidad de usuarios y datos sin necesidad de una reestruturacion de todo el sistema.
+  3. **SEGURIDAD**
+Implementacion de medidades robustas para proteger los datos del usuario esto para garantizar la integridad de los datos y confidencialiad de los mismos.
+  4. **DISPONIBILIDAD**
+El sistema debe tener un alto nivel de disponibilidad y estar operativo en la mayoria del tiempo, asi miniminzando las interrupciones y tiempos de inactividad.
+  5. **MANTENIBILIDAD**
+El sistema debe ser facil de mantener y actualizar, con una arquitectura que facilite la resolucion de problemas y la incorporacion de nuevas funcionalidades que la hagan más facil de mantener.
+  6. **COMPATIBILIDAD**
+Asegurar que la app sea compatible con diversos dispositivos y navegadores, garantizando un acceso uniforme y sin problemas para todos los usuarios.
+  7. **DOCUMENTACIÓN**
+Proporcionar una documentacion clara y completa tanto para usuarios finales como para desarrolladores facilitando en el uso y mantenimiento del sistema.
+
+Esta descripción abarca los aspectos esenciales que garantizarán el buen funcionamiento y la calidad general de la plataforma AQUA-VIDA.
+
+
+
 
 ## Estructura de Archivos
 

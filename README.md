@@ -86,15 +86,26 @@ Los colores utilizados en la identidad gráfica de AQUA VIDA son:
 Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
 
 <table>
-   <td>Paleta de colores que se usara</td>
   <tr>
-    <td><img src="Captura de pantalla 2024-07-24 142711.png" width="100%" style="padding: 10px;" /></td>
+    <td>Paleta Oficial de colores que se usará</td>
   </tr>
-  
-
-
- 
+  <tr>
+    <td><img src="FronEnd/Asesets/Imagenes/CodigosRGB.png" alt="Códigos RGB" /></td>
+  </tr>
+  <tr>
+    <td>Tonos y Subtonos AQUAVIDA</td>
+  </tr>
+  <tr>
+    <td><img src="FronEnd/Asesets/Imagenes/PaletaOficial.png" alt="Paleta Oficial" /></td>
+  </tr>
+  <tr>
+    <td>Colores usados en Adobe Xd</td>
+  </tr>
+  <tr>
+    <td><img src="FronEnd/Asesets/Imagenes/PaletaXD.png" alt="Paleta Adobe Xd" /></td>
+  </tr>
 </table>
+
 #### Azul Agua
 - **Hex**: #0074D9
 - **RGB**: (0, 116, 217)
@@ -148,12 +159,34 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 
 ### SKETCHES
 <table>
-
   <tr>
-    <img src="SKETCH 1.jpeg"  />
-    <img src="SKETCH 2.jpeg"  />
-    <img src="SKETCH 3.jpeg"  />
+    <td><img src="SKETCH 1.jpeg" alt="Sketch 1" /></td>
+    <td><img src="SKETCH 2.jpeg" alt="Sketch 2" /></td>
   </tr>
+  <tr>
+    <td><img src="SKETCH 3.jpeg" alt="Sketch 3" /></td>
+    <td><img src="SKETCH 3.jpeg" alt="Sketch 3" /></td>
+  </tr>
+</table>
+
+### WireFrame
+<table>
+  <tr>
+    <td>WireFrames de AquaVida</td>
+  </tr>
+  <tr>
+    <td><img src="FronEnd/Asesets/Imagenes/Assets Principal.png" alt="Assets Principal" /></td>
+    <td><img src="FronEnd/Asesets/Imagenes/Asetts Quienes Somos.png" alt="Asetts Quienes Somos" /></td>
+  </tr>
+  <tr>
+    <td><img src="FronEnd/Asesets/Imagenes/Assets EduAqua.png" alt="Assets EduAqua" /></td>
+    <td><img src="FronEnd/Asesets/Imagenes/Assets Reportes.png" alt="Assets Reportes" /></td>
+  </tr>
+  <tr>
+    <td><img src="FronEnd/Asesets/Imagenes/Assets Inicio.png" alt="Assets Inicio" /></td>
+    <td><img src="FronEnd/Asesets/Imagenes/Assets Inicio.png" alt="Assets Inicio" /></td>
+  </tr>
+</table>
 
 ### AUTORES
 

@@ -17,7 +17,7 @@ En esta carpeta se definen los parámetros necesarios para conectarse a la base 
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel de Jesus Baños Telley|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo Front |❌No revisado|
-|Derek Sesni Carreño|[@DevDerekSesniCarreño](https://github.com/DevFntxy)|Desarrollador de Backend|❌No revisado|
-|Yazmin Hernandez Gutierrez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador FronEnd|❌No revisado|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ No revisado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️  Revisado y aprobado|

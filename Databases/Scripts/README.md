@@ -2,7 +2,7 @@
 
 Este archivo contiene los scripts necesarios para automatizar tareas en una base de datos MySQL. Los scripts pueden incluir tareas como la creación de tablas, inserción de datos, y mantenimiento de la base de datos.
 
-El proceso de creación y gestión implica escribir y mantener scripts SQL y/o PHP que ejecuten tareas específicas de manera automatizada para mejorar la eficiencia y reducir errores manuales.
+El proceso de creación y gestión implica escribir y mantener scripts SQL y/o PHP que ejecuten tareas específicas de manera automatizada para mejorar la eficiencia y reducir errores manuales. 
 
 ## Estructura de Archivos
 

@@ -204,7 +204,7 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
   </tr>
   <tr>
     <td><img src="/Documentation/GUI/Mockups/Images-Mockups/sesion.png" alt="Assets Inicio" /></td>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/RECUPERARCONTRASEÑA.png alt="Assets Inicio" /></td>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/RECUPERARCONTRASEÑA.png " /></td>
   </tr>
 </table>
 ### AUTORES

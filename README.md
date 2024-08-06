@@ -189,6 +189,24 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
   </tr>
 </table>
 
+### MOCKUPS O DISEÑO XD
+<table>
+  <tr>
+    <td>Mockups De AquaVida</td>
+  </tr>
+  <tr>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/Principal.png" alt="Assets Principal" /></td>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/quienes somos.png" alt="Asetts Quienes Somos" /></td>
+  </tr>
+  <tr>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/eduaqua.png" alt="Assets EduAqua" /></td>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/reportes.png" alt="Assets Reportes" /></td>
+  </tr>
+  <tr>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/sesion.png" alt="Assets Inicio" /></td>
+    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/RECUPERARCONTRASEÑA.png alt="Assets Inicio" /></td>
+  </tr>
+</table>
 ### AUTORES
 
 | Nombre                        | Usuario             | Puesto |

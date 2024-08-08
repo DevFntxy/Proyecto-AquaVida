@@ -78,63 +78,7 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 ---
 
 
-### PALETA DE COLORES
 
-Los colores utilizados en la identidad gráfica de AQUA VIDA son:
-
-
-Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
-
-<table>
-  <tr>
-    <td>Paleta Oficial de colores que se usará</td>
-  </tr>
-  <tr>
-    <td><img src="FronEnd/Asesets/Imagenes/CodigosRGB.png" alt="Códigos RGB" /></td>
-  </tr>
-  <tr>
-    <td>Tonos y Subtonos AQUAVIDA</td>
-  </tr>
-  <tr>
-    <td><img src="FronEnd/Asesets/Imagenes/PaletaOficial.png" alt="Paleta Oficial" /></td>
-  </tr>
-  <tr>
-    <td>Colores usados en Adobe Xd</td>
-  </tr>
-  <tr>
-    <td><img src="FronEnd/Asesets/Imagenes/PaletaXD.png" alt="Paleta Adobe Xd" /></td>
-  </tr>
-</table>
-
-#### Azul Agua
-- **Hex**: #0074D9
-- **RGB**: (0, 116, 217)
-- **Uso**: Encabezados, enlaces y elementos destacados.
-
-#### Verde Esmeralda
-- **Hex**: #2ECC40
-- **RGB**: (46, 204, 64)
-- **Uso**: Botones, iconos de acciones positivas y elementos de realce.
-
-#### Gris Claro
-- **Hex**: #DDDDDD
-- **RGB**: (221, 221, 221)
-- **Uso**: Fondos, bordes y secciones secundarias.
-
-#### Gris Oscuro
-- **Hex**: #333333
-- **RGB**: (51, 51, 51)
-- **Uso**: Texto principal, títulos y subtítulos.
-
-#### Blanco
-- **Hex**: #FFFFFF
-- **RGB**: (255, 255, 255)
-- **Uso**: Fondos, áreas de contenido principal y secciones claras.
-
-  
-
- 
-</table>
 
 ### LISTA DE TECNOLOGIAS
 
@@ -158,55 +102,7 @@ Este repositorio contiene la paleta de colores utilizada para la página web de 
 </p>
 
 
-### SKETCHES
-<table>
-  <tr>
-    <td><img src="Documentation/GUI/Sketches/ImagenesSketches/SKETCH 1.jpeg" alt="Sketch 1" /></td>
-    <td><img src="Documentation/GUI/Sketches/ImagenesSketches/SKETCH 2.jpeg" alt="Sketch 2" /></td>
-  </tr>
-  <tr>
-    <td><img src="Documentation/GUI/Sketches/ImagenesSketches/SKETCH 3.jpeg" /></td>
-    
-  </tr>
-</table>
 
-### WireFrame
-<table>
-  <tr>
-    <td>WireFrames de AquaVida</td>
-  </tr>
-  <tr>
-    <td><img src="FronEnd/Asesets/Imagenes/Assets Principal.png" alt="Assets Principal" /></td>
-    <td><img src="FronEnd/Asesets/Imagenes/Asetts Quienes Somos.png" alt="Asetts Quienes Somos" /></td>
-  </tr>
-  <tr>
-    <td><img src="FronEnd/Asesets/Imagenes/Assets EduAqua.png" alt="Assets EduAqua" /></td>
-    <td><img src="FronEnd/Asesets/Imagenes/Assets Reportes.png" alt="Assets Reportes" /></td>
-  </tr>
-  <tr>
-    <td><img src="FronEnd/Asesets/Imagenes/Assets Inicio.png" alt="Assets Inicio" /></td>
-    <td><img src="FronEnd/Asesets/Imagenes/Assets Inicio.png" alt="Assets Inicio" /></td>
-  </tr>
-</table>
-
-### MOCKUPS O DISEÑO XD
-<table>
-  <tr>
-    <td>Mockups De AquaVida</td>
-  </tr>
-  <tr>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/Principal.png" alt="Assets Principal" /></td>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/quienes somos.png" alt="Asetts Quienes Somos" /></td>
-  </tr>
-  <tr>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/eduaqua.png" alt="Assets EduAqua" /></td>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/reportes.png" alt="Assets Reportes" /></td>
-  </tr>
-  <tr>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/sesion.png" alt="Assets Inicio" /></td>
-    <td><img src="/Documentation/GUI/Mockups/Images-Mockups/RECUPERARCONTRASEÑA.png " /></td>
-  </tr>
-</table>
 ### AUTORES
 
 | Nombre                        | Usuario             | Puesto |

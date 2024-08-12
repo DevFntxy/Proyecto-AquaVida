@@ -8,8 +8,6 @@ Este repositorio contiene los assets del proyecto AquaVida , cada uno en su resp
 Cada carpeta de asset contiene los archivos necesarios para utilizar y comprender el asset correspondiente CSS ,HTML y JS  entre otros recursos.
 </p>
 
-
-
 ## Estructura de Archivos
 
 > IntegradoraI-AquaVida<br>
@@ -24,11 +22,38 @@ Cada carpeta de asset contiene los archivos necesarios para utilizar y comprende
 
 
 ## Tipos de Assets
-|Paleta de Colores|
-|------------|
-|![alt text](<Captura de pantalla 2024-07-17 191609.png>)|[Assets/Captura de pantalla 2024-07-17 191609.png](Assets/Captura de pantalla 2024-07-17 191609.png)
-<p align="justify">Este es un ejemplo correspon
-diente a la carpeta Css ya que se encargara de la parte visual de Aqua Vida.
+#### PALETA DE COLORES
+
+Los colores utilizados en la identidad gráfica de AQUA VIDA son:
+
+
+Este repositorio contiene la paleta de colores utilizada para la página web de reportes de fuga de agua "Aqua Vida".
+
+
+<table>
+  <tr>
+    <td>Paleta Oficial de colores que se usará</td>
+  </tr>
+  <tr>
+    <td><img src="/FronEnd/Asesets/Imagenes/CodigosRGB.png" alt="Códigos RGB" /></td>
+  </tr>
+  <tr>
+    <td>Tonos y Subtonos AQUAVIDA</td>
+  </tr>
+  <tr>
+    <td><img src="/FronEnd/Asesets/Imagenes/PaletaOficial.png" alt="Paleta Oficial" /></td>
+  </tr>
+  <tr>
+    <td>Colores usados en Adobe Xd</td>
+  </tr>
+  <tr>
+    <td><img src="/FronEnd/Asesets/Imagenes/PaletaXD.png" alt="Paleta Adobe Xd" /></td>
+  </tr>
+</table>
+
+
+
+<p align="justify">Este es un ejemplo correspondiente a la carpeta Css ya que se encargara de la parte visual de Aqua Vida.
 
 Los assets en este repositorio pueden incluir:
 - **Imágenes**: Recursos visuales como ilustraciones, fotografías o gráficos.

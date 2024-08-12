@@ -1,0 +1,58 @@
+
+main {
+    width: 100%;
+    background: #fff;
+}
+.fila1,
+.fila2 {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+.Texto {
+    flex: 1; 
+    max-width: 80%;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.Texto h1 {
+    font-size: 35px;
+    color:#007bff; 
+    margin-bottom: 15px;
+}
+
+.Texto p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #000000; 
+}
+
+.Imagen_1,
+.Imagen_2 {
+    flex: 1; 
+    min-width: 300px;
+    max-width: 400px; 
+}
+.Imagen_1 {
+  padding: 20px;
+}
+.Imagen_2 {
+padding-left: 40px;
+}
+/* Ajustes para pantallas más pequeñas */
+@media (max-width: 768px) {
+    .fila1,
+    .fila2 {
+        flex-direction: column; 
+        text-align: center; 
+    }
+    .Texto {
+        max-width: 100%; 
+        margin-bottom: 20px;
+    }
+    .Imagen_1,
+    .Imagen2 {
+        max-width: 100%;
+    }
+}

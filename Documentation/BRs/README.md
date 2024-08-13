@@ -6,21 +6,19 @@ Las reglas de negocio de AQUA-VIDA están diseñadas para:
 1. **Eficiencia y Precisión en el Reporte de Incidentes:**
 
  - Permitir a los ciudadanos reportar problemas relacionados con el agua de manera sencilla y precisa.
-
  - Asegurar que los datos reportados sean validados y utilizados para tomar decisiones informadas.
-2. **Automatización y Fiabilidad en las Alertas Tempranas:**
-
-- Implementar un sistema de alertas tempranas que utilice datos meteorológicos y de uso del agua para predecir sequías.
-- Garantizar que las alertas sean confiables y lleguen a las personas adecuadas en el momento oportuno.
-3. **Gestión de Acceso y Roles de Usuario:**
+   
+2. **Gestión de Acceso y Roles de Usuario:**
 
 - Definir claramente los diferentes roles de usuario (ciudadanos, administradores, autoridades) y sus respectivos permisos y responsabilidades.
 - Asegurar que cada usuario tenga acceso solo a la información y funcionalidades relevantes para su rol.
-4. **Seguridad y Privacidad de la Información:**
+
+3. **Seguridad y Privacidad de la Información:**
 
 - Proteger los datos personales y sensibles de los usuarios mediante protocolos de seguridad robustos.
 - Usar los datos recopilados únicamente para mejorar la gestión de los recursos hídricos y la planificación estratégica.
-5. **Transparencia y Responsabilidad:**
+
+4. **Transparencia y Responsabilidad:**
 
 - Mantener un sistema transparente donde los usuarios puedan ver el estado de sus reportes y las acciones tomadas.
 - Fomentar la responsabilidad entre las autoridades locales y los ciudadanos para una mejor gestión del agua.

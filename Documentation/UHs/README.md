@@ -12,7 +12,7 @@ Las historias de usuario son breves descripciones de funcionalidades o requerimi
 >| - **Documentation**<br>
 > &nbsp;&nbsp;|- BRs<br>
 > &nbsp;&nbsp;|- FRs<br>
-> &nbsp;&nbsp;|- **GUI**<br>
+> &nbsp;&nbsp;|- GUI<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>

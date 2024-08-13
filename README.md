@@ -21,18 +21,11 @@
 
 ---
 
-### ORGANIGRAMA DEL EQUIPO
-  
-![](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Organigrama%20Roles.png)
-
-
-
-
----
 
 ### DESCRIPCION
 <p align="justify">
 Se busca implementar una aplicación web que permita crear conciencia sobre el consumo de agua en Xicotepec y desarrollar mecanismos de alerta sobre fugas o sequías. Esta herramienta también nos ayudara a mejorará la gestión y conservación de los recursos hídricos en la región.</p>
+
 
 ---
 
@@ -44,15 +37,6 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ### PROPUESTA DE SOLUCION
 <p align="justify">En respuesta a los desafios que endrenta Xicotepec en la gestion y conservacion de los recursos hidricos, ponemos una plataforma integral que aborde estos problemas de manera efectiva. Principalmente se fomentara el consumo responsable y reduciendo el desperdicio de este recurso.</p>
-
-
-#### Pasos para llegar y/o concluir la solucion
-
-##### Sistema de reportes y incidentes: 
-<p align="justify">Desarrollaremos una plataforma web que permita a los ususarios reportar incidentes tales como, fugas, contaminacion del recurso hidrico. Estos reportes seran dirigidos a las autoridades y administradores para su pronta resoulucion.</p>
-
-##### Alertas tempranas o Prediccion de sequias:
-<p align="justify">Se realizara un analisis de consumo y con base a todos los datos recopilados en el sistema, se crearan predicciones en el caso de que en una zona en especifico sea vulnerable a sequias, esto ayudara a que las autoridades puedan tomar medidas preventivas reduciendo asi la escasez de agua.</p>
 
 ---
 
@@ -75,12 +59,37 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 <p align="justify"><strong>Facilitar la participación comunitaria</strong>: Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.</p>
 
-
 ---
 
 ### DIAGRAMA DE GANNT
 
 <img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Diagrama%20de%20Gantt.png" width="80%" style="padding: 10px;" /></td>
+
+---
+
+
+### TABLA DE COLABORADORES
+
+| Nombre                        | Usuario             | Puesto |
+|-------------------------------|---------------------|--------|
+| Angel de Jesus Baños Tellez   | [AngelJesus13](https://github.com/angelJesus13)        | Ceo y Documentador       |
+| Obed Guzman Flores            | [ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)       |   Desarrollador Backend     |
+| Yazmin Gutierrez Hernandez    | [YazUtxj](https://github.com/YazUtxj)             |  Desarrollador Frontend      |
+| Derek Sesni Carreño           | [DevFntxy](https://github.com/DevFntxy)            | Desarrollador Database       |
+
+  
+
+---
+
+
+### ORGANIGRAMA DEL EQUIPO
+  
+![](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Organigrama%20Roles.png)
+
+
+
+
+---
 
 
 ### LISTA DE TECNOLOGIAS
@@ -106,13 +115,4 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 
 
-### AUTORES
 
-| Nombre                        | Usuario             | Puesto |
-|-------------------------------|---------------------|--------|
-| Angel de Jesus Baños Tellez   | [AngelJesus13](https://github.com/angelJesus13)        | Ceo y Documentador       |
-| Obed Guzman Flores            | [ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)       |   Desarrollador Backend     |
-| Yazmin Gutierrez Hernandez    | [YazUtxj](https://github.com/YazUtxj)             |  Desarrollador Frontend      |
-| Derek Sesni Carreño           | [DevFntxy](https://github.com/DevFntxy)            | Desarrollador Database       |
-
-  

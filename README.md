@@ -78,7 +78,9 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ---
 
+### DIAGRAMA DE GANNT
 
+<img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Diagrama%20de%20Gantt.png" width="80%" style="padding: 10px;" /></td>
 
 
 ### LISTA DE TECNOLOGIAS

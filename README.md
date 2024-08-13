@@ -8,13 +8,14 @@
 ## LOGOTIPOS
 
 <table>
+   <td>Logo de la Aplicacion</td>
+   <td>Logo de empresa</td>
   <tr>
     <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg" width="100%" style="padding: 10px;" /></td>
     <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg" width="100%" style="padding: 10px;" /></td>
    
   </tr>
-  <td>Logo de la Aplicacion</td>
-   <td>Logo de empresa</td>
+ 
 </table>
 
 

@@ -1,6 +1,6 @@
 # Proyectos en JavaScript Creativos ![CSS]( https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-Este repositorio contiene los archivos de JavaScript acerca del proyecto Aqua Vida
+JavaScript (JS) es un lenguaje de programación que se utiliza principalmente para crear contenido interactivo y dinámico en páginas web. A diferencia de HTML y CSS, que se ocupan de la estructura y el estilo, JavaScript permite agregar funcionalidades avanzadas a los sitios web, como manejar eventos de usuario, modificar el contenido de la página en respuesta a acciones, validar formularios, y mucho más.
 
 ## Descripción
 

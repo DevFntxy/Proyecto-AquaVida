@@ -1,7 +1,7 @@
 # Proyecto de Estilos CSS   ![CSS](    https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 
-Este repositorio contiene los archivos css para el proyecto AQUA VIDA 
+CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación visual de un documento escrito en HTML o XML. CSS permite controlar el aspecto de los elementos de una página web, como su diseño, colores, fuentes, márgenes, espaciado, alineación, y mucho más.
 
 ## Descripción
 <p align="justify">En este repositorio encontrarás  un archivo CSS  que describe y es la parte frontal de nuestro proyecto AquaVida , en este   se exploran diferentes estilos y técnicas utilizando CSS.

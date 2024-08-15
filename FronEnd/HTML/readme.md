@@ -1,7 +1,7 @@
 # Proyecto de HTML  ![CSS]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear y estructurar contenido en la web. Es la base de todas las páginas web y se utiliza para definir la estructura y el contenido de un documento web, como textos, imágenes, enlaces, formularios, tablas, y más.
 
-Este repositorio contiene los archivos HTML para el proyecto AQUA VIDA ,desde la pagina princiapal ,inicio de sesion , reportes , comunidad y quienes somos etc.
 
 ## Descripción
 

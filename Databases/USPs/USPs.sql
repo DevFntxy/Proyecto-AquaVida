@@ -3,15 +3,18 @@
 -- Procedimiento Almacenado: Cambiar el estado de un reporte
 -- Este procedimiento permite cambiar el estado de un reporte específico.
 -- Recibe como parámetros el ID del reporte y el nuevo estado.
-CREATE PROCEDURE cambiar_estado_reporte (
-    IN p_id_reporte INT,
-    IN p_nuevo_estado ENUM('Pendiente', 'En Proceso', 'Resuelto')
-)
+DELIMITER //
+CREATE PROCEDURE actualizar_estado_reporte(IN id INT, IN nuevo_estado VARCHAR(50))
 BEGIN
-    -- Insertar el nuevo estado en la tabla `estado_reportes`
-    INSERT INTO estado_reportes (id_reporte, estado) 
-    VALUES (p_id_reporte, p_nuevo_estado);
-END 
+    UPDATE reportes 
+    SET estado_reporte = nuevo_estado 
+    WHERE id_reporte = id;
+END //
+DELIMITER ;
+
+-- Para ejecutar el procedimiento:
+CALL actualizar_estado_reporte(6, 'completado');
+
 -- ******************************************************************************************************--
 
 -- Procedimiento almacenado 'sp_RegistrarAdministrador'

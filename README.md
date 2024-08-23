@@ -1,8 +1,8 @@
----
 
+---
 # Proyecto-AquaVida
 ### AQUA VIDA - IDENTIDAD GRAFICA
-<p align="justify">La identidad gráfica de AQUA-VIDA busca transmitir valores de sostenibilidad, comunidad, transparencia, e innovación. Cada elemento visual está diseñado para resonar con la audiencia, destacando la importancia de la conservación del agua y la participación activa de la comunidad en la gestión de este recurso vital.
+<p align="justify"> La identidad gráfica de AQUA-VIDA busca transmitir valores de sostenibilidad, comunidad, transparencia, e innovación. Cada elemento visual está diseñado para resonar con la audiencia, destacando la importancia de la conservación del agua y la participación activa de la comunidad en la gestión de este recurso vital.
 </p>
 
 ## LOGOTIPOS
@@ -11,16 +11,12 @@
    <td>Logo de la Aplicacion</td>
    <td>Logo de empresa</td>
   <tr>
-    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Logo1.jpg" width="100%" style="padding: 10px;" /></td>
-    <td><img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/logo2.jpg" width="100%" style="padding: 10px;" /></td>
+    <td>  <img src="FronEnd/Asesets/Imagenes/Logo1.jpg" width="80%" style="padding: 10px;" />  </td>
+    <td>   <img src="FronEnd/Asesets/Imagenes/logo2.jpg" width="80%" style="padding: 10px;" /> </td>
    
   </tr>
  
 </table>
-
-
----
-
 
 ### DESCRIPCION
 <p align="justify">
@@ -59,11 +55,11 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 <p align="justify"><strong>Facilitar la participación comunitaria</strong>: Establecer plataformas interactivas que fomenten la participación activa de los residentes en la vigilancia y conservación del agua, incentivando la denuncia de problemas y la colaboración en soluciones.</p>
 
----
+
 
 ### DIAGRAMA DE GANNT
 
-<img src="https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Diagrama%20de%20Gantt.png" width="80%" style="padding: 10px;" /></td>
+<img src="  FronEnd/Asesets/Imagenes/Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
 
 ---
 
@@ -83,8 +79,8 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 
 ### ORGANIGRAMA DEL EQUIPO
-  
-![](https://github.com/DevFntxy/Proyecto-AquaVida/blob/main/Organigrama%20Roles.png)
+  <img src="FronEnd\Asesets\Imagenes\Organigrama Roles.png" width="80%" style="padding: 10px;" />
+
 
 
 

@@ -31,6 +31,6 @@ Un prototipo es una versión preliminar o inicial de un producto o sistema que s
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado.|
-|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ Revisado y aprobado. (El shields no concuerda con la tecnologia usada en el archivo adjunto sin embargo puede no ser merito de un readme bien redactado y un correcto archivo adjunto)|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

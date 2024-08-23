@@ -33,4 +33,4 @@ Un mockup es una representación visual estática o interactiva que muestra el d
 |Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado.|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ Revisado y aprobado.|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No aprobado, faltan mockups relacionados con el proyecto|

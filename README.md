@@ -59,7 +59,7 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ### DIAGRAMA DE GANNT
 
-<img src="  FronEnd/Asesets/Imagenes/Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
+<img src="FronEnd/Asesets/Imagenes/Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
 
 ---
 

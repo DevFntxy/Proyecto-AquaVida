@@ -1,0 +1,2 @@
+-- Script para respaldo de la base de datos (Ejecutar desde la línea de comandos)
+mysqldump -u tu_usuario -p rol > respaldo_base_de_datos.sql

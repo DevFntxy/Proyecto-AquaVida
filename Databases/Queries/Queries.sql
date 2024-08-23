@@ -1,27 +1,31 @@
 --****************************************************************************--
 
--- Consulta para obtener todos los usuarios con reportes realizados
--- Involucra las tablas 'Usuarios' y 'Reportes'
--- Filtra los reportes que están en estado 'Realizado' (Id_estado = 3)
-SELECT u.Nombre, u.Apellido_P, u.Apellido_M, r.Tipo_incidente, r.Fecha
-FROM Usuarios u
-INNER JOIN Reportes r ON u.Id_usuario = r.Id_usuario
-WHERE r.Id_estado = 3;
+-- Inserta un nuevo reporte en la base de datos
+INSERT INTO reportes (nombre, apellidopat, apellidomat, telefono, numtoma, direccion, tipo_problema, descripcion, fecha_reg, id_usuarios, estado_reporte)
+VALUES ('Juan', 'Pérez', 'López', 1234567890, 987654, 'Calle Falsa 123', 'Fuga de agua', 'Descripción del problema', '2024-08-21', 2, 'Pendiente');
+
 
 --****************************************************************************--
 
--- Consulta para listar el consumo de agua por zona y fecha
--- Involucra las tablas 'Consumo_agua' y 'Zonas'
--- Ordena los resultados por fecha de manera descendente
-SELECT z.Nombre AS Zona, c.Fecha, c.Cantidad
-FROM Consumo_agua c
-INNER JOIN Zonas z ON c.Id_zona = z.Id_zona
-ORDER BY c.Fecha DESC;
+-- Actualiza los detalles de un reporte existente en la base de datos
+UPDATE reportes
+SET tipo_problema = 'Infraestructura dañada', descripcion = 'La tubería está rota', estado_reporte = 'En proceso'
+WHERE id_reporte = 1;
 
 --****************************************************************************--
 
--- Consulta para contar la cantidad de reportes por tipo de incidente
--- Agrupa los resultados por 'Tipo_incidente' en la tabla 'Reportes'
-SELECT Tipo_incidente, COUNT(*) AS Cantidad
-FROM Reportes
-GROUP BY Tipo_incidente;
+-- Elimina todos los reportes con un estado específico
+DELETE FROM reportes
+WHERE estado_reporte = 'Resuelto';
+
+--****************************************************************************--
+-- Inserta un nuevo usuario en la base de datos
+INSERT INTO usuarios (nombre, usuario, contraseña, correo, fecha_reg, id_cargo)
+VALUES ('Ana', 'ana123', 'securepassword', 'ana@example.com', '2024-08-21', 2);
+
+--****************************************************************************--
+
+-- Actualiza los detalles de un usuario existente en la base de datos
+UPDATE usuarios
+SET nombre = 'Ana María', correo = 'anamar@example.com'
+WHERE id_usuarios = 3;

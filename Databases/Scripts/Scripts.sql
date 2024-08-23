@@ -1,28 +1,39 @@
--- ******************************************************************************************************--
+CREATE TABLE  cargo (
+    id_cargo INT(11) NOT NULL AUTO_INCREMENT,
+    descripcion VARCHAR(250) NOT NULL,
+    PRIMARY KEY (id_cargo)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
--- Script para insertar datos en la tabla 'Usuarios'
--- Asi mismo un ejemplo de datos a ingresar
-INSERT INTO Usuarios (Id_usuario, Nombre, Apellido_P, Apellido_M, Correo, Contraseña, Numero_telefono)
-VALUES (1, 'Juan', 'Perez', 'Gomez', 'juan.perez@example.com', 'password123', '1234567890'),
-       (2, 'Maria', 'Lopez', 'Martinez', 'maria.lopez@example.com', 'password123', '0987654321');
+CREATE TABLE  usuarios (
+    id_usuarios INT(11) NOT NULL AUTO_INCREMENT,
+    nombre VARCHAR(50) NOT NULL,
+    usuario VARCHAR(50) NOT NULL UNIQUE,
+    contraseña VARCHAR(64) NOT NULL,
+    correo VARCHAR(50) NOT NULL UNIQUE,
+    fecha_reg DATETIME NOT NULL,
+    id_cargo INT(11) NOT NULL,
+    PRIMARY KEY (id_usuarios),
+    FOREIGN KEY (id_cargo) REFERENCES cargo(id_cargo)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
--- ******************************************************************************************************--
-
--- Script para actualizar el estado de un reporte en la tabla 'Reportes'
--- En este caso, se actualiza el estado del reporte con Id_reporte = 1 a 'Realizado' (Id_estado = 3)
-UPDATE Reportes
-SET Id_estado = 3
-WHERE Id_reporte = 1;
-
--- ******************************************************************************************************--
-
--- Script para eliminar reportes antiguos en la tabla 'Reportes'
--- Elimina los reportes con fecha anterior a un año desde la fecha actual
-DELETE FROM Reportes
-WHERE Fecha < DATE_SUB(CURDATE(), INTERVAL 1 YEAR);
-
--- ******************************************************************************************************--
-
-
-
+CREATE TABLE reportes (
+    id_reporte INT(11) NOT NULL AUTO_INCREMENT,
+    nombre VARCHAR(50) NOT NULL,
+    apellidopat VARCHAR(50) NOT NULL,
+    apellidomat VARCHAR(50) NOT NULL,
+    telefono INT(11) NOT NULL,
+    numtoma INT(11) NOT NULL,
+    direccion VARCHAR(255) NOT NULL,
+    tipo_problema VARCHAR(255) NOT NULL,
+    descripcion VARCHAR(255) NOT NULL,
+    fecha_reg DATETIME NOT NULL,
+    id_usuarios INT(11) NOT NULL,
+    estado_reporte VARCHAR(50) NOT NULL DEFAULT 'Pendiente',
+    PRIMARY KEY (id_reporte),
+    FOREIGN KEY (id_usuarios) REFERENCES usuarios(id_usuarios)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 

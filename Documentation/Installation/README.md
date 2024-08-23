@@ -1,6 +1,7 @@
-# Instalation![Instalation ](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+# Manual_Instalation![Instalation ](https://img.shields.io/badge/Adobe%20PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-La instalación se refiere al proceso de configurar y preparar un software o aplicación para su ejecución en un sistema informático específico.
+
+En este folder encontraremos los archivos que serviran de guía al usuario para poder instalar y desplegar la aplicación web en el entorno de PHP y los usuarios puedan comenzar con su uso.
 
 ## Estructura de Archivos
 
@@ -12,13 +13,13 @@ La instalación se refiere al proceso de configurar y preparar un software o apl
 >| - **Documentation**<br>
 > &nbsp;&nbsp;|- BRs<br>
 > &nbsp;&nbsp;|- FRs<br>
-> &nbsp;&nbsp;|- **GUI**<br>
+> &nbsp;&nbsp;|- GUI <br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- SisteMap<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
-> &nbsp;&nbsp;|- **Installation**<br>
+> &nbsp;&nbsp;|- **Manual_Installation**<br>
 > &nbsp;&nbsp;|- Manual<br>
 > &nbsp;&nbsp;|- NFRs<br>
 > &nbsp;&nbsp;|- UHs<br>

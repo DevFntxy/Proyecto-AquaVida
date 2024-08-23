@@ -19,5 +19,5 @@
 |------------|--------|---|---|
 |Angel de Jesus Baños Telley|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo FrontEnd|✔️  Revisado y aprobado|
 |Derek Sesni Carreño|[@DevDerekSesniCarreño](https://github.com/DevFntxy)|Desarrollador de DataBases|❌ Hay errores en el código, no aprobado|
-|Yazmin Hernandez Gutierrez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador FronEnd|❌No revisado|
+|Yazmin Hernandez Gutierrez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador FronEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️  Revisado y aprobado|

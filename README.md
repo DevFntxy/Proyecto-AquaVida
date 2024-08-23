@@ -11,8 +11,8 @@
    <td>Logo de la Aplicacion</td>
    <td>Logo de empresa</td>
   <tr>
-    <td>  <img src="C:\Users\hp\Downloads\Proyecto-AquaVida\FronEnd\Assets\Imagenes\Logo1.jpg" width="80%" style="padding: 10px;" />  </td>
-    <td>   <img src="C:\Users\hp\Downloads\Proyecto-AquaVida\FronEnd\Assets\Imagenes\logo2.jpg" width="80%" style="padding: 10px;" /> </td>
+    <td>  <img src="FronEnd\Assets\Imagenes\Logo1.jpg" width="80%" style="padding: 10px;" />  </td>
+    <td>   <img src="FronEnd\Assets\Imagenes\logo2.jpg" width="80%" style="padding: 10px;" /> </td>
    
   </tr>
  

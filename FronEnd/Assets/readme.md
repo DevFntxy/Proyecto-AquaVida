@@ -1,6 +1,6 @@
 # Assets   ![CSS](  https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-Este repositorio contiene los assets del proyecto AquaVida , cada uno en su respectiva carpeta
+En el desarrollo web y en programación en general, el término "assets" se refiere a los recursos o archivos que se utilizan en una aplicación o sitio web. Estos recursos pueden incluir:
 
 ## Descripción
 

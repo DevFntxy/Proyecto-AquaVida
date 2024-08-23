@@ -31,6 +31,6 @@ Un Sistema de Mapas es una plataforma o aplicación que permite la visualizació
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado.|
-|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No revisado|
+|Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No aprobado (El shields utilizado no concuerda con el archivo y proposito de la carpeta, nombre del archivo incorrecto y queda a mejora el mapa de sitio adjuntado...).|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|

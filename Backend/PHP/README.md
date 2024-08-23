@@ -19,7 +19,7 @@ En esta carpeta se organizan archivos de lógica de negocio, controladores y se 
 |------------|--------|---|---|
 |Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️  Revisado y aprobado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ Revisado, No aprobado (Error de sintaxis en documento php el archivo lleva por nombre inde y noo "index")|
-|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|❌ No revisado|
+|Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️  Revisado y aprobado|
 
 

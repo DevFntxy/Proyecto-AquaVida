@@ -37,4 +37,4 @@ Los proyectos en este repositorio utilizan principalmente:
 |Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|❌ No revisado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️  Revisado y aprobado (Readme un poco extenso)|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️  Revisado y aprobado, html completo para la el proyecto|

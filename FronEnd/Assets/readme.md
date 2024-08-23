@@ -67,7 +67,7 @@ Los assets en este repositorio pueden incluir:
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo| ❌ No revisado|
+|Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo| ✔️  Revisado y aprobado|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|❌ No aprobado  (No se visualizan imagenes cargadas)|
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd|✔️  Revisado y aprobado|
 |Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️  Revisado y aprobado, los assets estan correctos son los necesarios para el proyecto|

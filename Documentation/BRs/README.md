@@ -55,4 +55,4 @@ Las reglas de negocio de AQUA-VIDA están diseñadas para:
 |Angel Baños Tellez|[@angelJesus13](https://github.com/angelJesus13)|Líder de Desarrollo|✔️ Revisado y aprobado.|
 |Derek Sesni Carreño|[@DevFntxy](https://github.com/DevFntxy)|Desarrollador de Databases|✔️ Revisado y aprobado informacion casi identica entre en readme y archivo adjunto. |
 |Yazmin Guitierrez Hernandez|[@YazUtxj](https://github.com/YazUtxj)|Desarrollador de FrontEnd| ✔️ Revisado y aprobado.|
-|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|❌ No revisado|
+|Obed Guzman Flores|[@ObedGuzmanGuz](https://github.com/ObedGuzmanGuz)|Desarrollador Backend|✔️ Revisado, se pueden agregar mas reglas de negocio de acuerdo si el proyecto lo requiere|

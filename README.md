@@ -11,8 +11,8 @@
    <td>Logo de la Aplicacion</td>
    <td>Logo de empresa</td>
   <tr>
-    <td>  <img src="FronEnd/Asesets/Imagenes/Logo1.jpg" width="80%" style="padding: 10px;" />  </td>
-    <td>   <img src="FronEnd/Asesets/Imagenes/logo2.jpg" width="80%" style="padding: 10px;" /> </td>
+    <td>  <img src="C:\Users\hp\Downloads\Proyecto-AquaVida\FronEnd\Assets\Imagenes\Logo1.jpg" width="80%" style="padding: 10px;" />  </td>
+    <td>   <img src="C:\Users\hp\Downloads\Proyecto-AquaVida\FronEnd\Assets\Imagenes\logo2.jpg" width="80%" style="padding: 10px;" /> </td>
    
   </tr>
  
@@ -59,7 +59,7 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 ### DIAGRAMA DE GANNT
 
-<img src="FronEnd/Asesets/Imagenes/Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
+<img src="FronEnd\Assets\Imagenes\Diagrama de Gantt.png" width="80%" style="padding: 10px;" /></td>
 
 ---
 
@@ -79,7 +79,7 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 
 
 ### ORGANIGRAMA DEL EQUIPO
-  <img src="FronEnd\Asesets\Imagenes\Organigrama Roles.png" width="80%" style="padding: 10px;" />
+  <img src="FronEnd\Assets\Imagenes\Organigrama Roles.png" width="80%" style="padding: 10px;" />
 
 
 

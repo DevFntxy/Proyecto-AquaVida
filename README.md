@@ -64,6 +64,7 @@ Se busca implementar una aplicación web que permita crear conciencia sobre el c
 ---
 
 
+
 ### TABLA DE COLABORADORES
 
 | Nombre                        | Usuario             | Puesto |
